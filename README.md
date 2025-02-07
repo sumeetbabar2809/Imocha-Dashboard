@@ -1,5 +1,7 @@
-![](images\banner.png)
+![About](images\banner.png)
 # iMocha Examination Report
+
+[Project Link](https://app.powerbi.com/view?r=eyJrIjoiOGY3MDFhOTItZjMzNi00YWQ4LWFlZjQtMDM1OWU1NGE0NTI0IiwidCI6IjIxZTcwODQ2LTI1ZjktNGYzMy05ZjVhLTVmMzljMWQ2NzIwMCIsImMiOjF9) 
 
 ## **Data Import and Transformation**
 The project started by importing data from an Excel file into Power BI. After importing, I carefully examined the data to ensure it was clean and consistent. No significant data type changes or blanks were found, so I proceeded directly to visualization development.
