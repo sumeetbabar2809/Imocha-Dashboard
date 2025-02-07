@@ -1,4 +1,4 @@
-![banner](images\banner.png)
+![](images\banner.jpg)
 # iMocha Examination Report
 
 ## **Project Link**
